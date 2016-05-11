@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     // new code
     static {
-        System.loadLibrary("hello-android-jni");
+        System.loadLibrary("hello");
     }
     public native String sayHello();
 }

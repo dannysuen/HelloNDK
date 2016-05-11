@@ -22,7 +22,7 @@ model {
 
         // New code
         ndk {
-            moduleName = "hello-android-jni"
+            moduleName = "hello"
         }
     }
 }
