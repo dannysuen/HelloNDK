@@ -22,7 +22,7 @@ model {
 
         // New code
         ndk {
-            moduleName = "hello"
+            moduleName = "native-shared-lib"
         }
     }
 }
